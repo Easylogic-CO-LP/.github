@@ -21,7 +21,8 @@ Beyond hosting and web development, we build our own **SaaS products** — inclu
 - **🏗️ Website, eShop, Web & Mobile App Development** — Custom dynamic websites, online stores, web applications, and native mobile apps built with modern technologies including HTML, PHP, CSS, JavaScript, and MySQL.
 - **📈 Website Promotion & SEO** — Proven, ethical SEO and Internet Marketing techniques to grow your online presence.
 - **⚡ Speed Optimization** — Performance tuning for your existing website.
-- **🔒 Joomla Security** — Hardening and security services for Joomla-based sites.
+- **🧩 Joomla Expert & Extensions Developer** — Full-service Joomla expertise: custom website development, bespoke extension and plugin development, template customization, and platform consulting. We build and maintain our own Joomla extensions (including Alfa Commerce) and bring that same depth of knowledge to every client project.
+- **🔒 Joomla Security** — Hardening, security audits, and ongoing protection for Joomla-based sites.
 - **🔄 Upgrades & Migration** — Seamless site migration from any other server, included free with every hosting package.
 
 ---
@@ -91,6 +92,7 @@ Alfa Commerce is a full-featured, open-source eCommerce component for Joomla, bu
 ## 💡 Why Choose Us
 
 - ✅ Years of experience in web hosting, Joomla & WordPress development
+- ✅ **Joomla Experts** — development, security hardening, upgrades, migrations & custom extensions
 - ✅ Hosting infrastructure in **Greece** (LAMDA HELIX Athens 2)
 - ✅ **Full SSD** storage & **GR-IX** network
 - ✅ **Free site migration** with every hosting package
