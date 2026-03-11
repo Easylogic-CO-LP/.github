@@ -38,7 +38,7 @@ Delivery Plus is a complete SaaS platform for catering and retail businesses tha
 
 **Built for:** Hotels · Restaurants · Taverns · Cafés · Fast Food · Pizzerias · Beach Bars · Mini Markets · Bakeries · and many more
 
-> 🔗 [Website](https://www.deliveryplus.gr/en/) · [Features](https://www.deliveryplus.gr/en/online-delivery-web-app-features.html) · [Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) · [Pricing](https://www.deliveryplus.gr/en/application-delivery-pricing.html) · [App Store](https://apps.apple.com/gr/app/delivery-plus-app/id1559737886) · [Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp)
+> 🔗 [Website](https://www.deliveryplus.gr/en/) · [Features](https://www.deliveryplus.gr/en/online-delivery-web-app-features.html) · [Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) · [App Store](https://apps.apple.com/gr/app/delivery-plus-app/id1559737886) · [Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp)
 
 ---
 
