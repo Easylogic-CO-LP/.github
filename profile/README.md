@@ -38,7 +38,7 @@ Delivery Plus is a complete SaaS platform for catering and retail businesses tha
 
 **Built for:** Hotels · Restaurants · Taverns · Cafés · Fast Food · Pizzerias · Beach Bars · Mini Markets · Bakeries · and many more
 
-> 🔗 [Website](https://www.deliveryplus.gr/en/) · [Features](https://www.deliveryplus.gr/en/online-delivery-web-app-features.html) · [Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) · [Pricing](https://www.deliveryplus.gr/en/application-delivery-pricing.html) · [App Store](https://apps.apple.com/gr/developer/easylogic-fakas-a-co-lp/id1154595499) · [Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp)
+> 🔗 [Website](https://www.deliveryplus.gr/en/) · [Features](https://www.deliveryplus.gr/en/online-delivery-web-app-features.html) · [Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) · [Pricing](https://www.deliveryplus.gr/en/application-delivery-pricing.html) · [App Store](https://apps.apple.com/gr/app/delivery-plus-app/id1559737886) · [Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp)
 
 ---
 
@@ -62,11 +62,12 @@ Dianemo is the most advanced white-label courier and driver management platform,
 | ☁️ Hosting Packages | [Web Hosting Plans](https://www.easylogic.gr/domain/cart.php) |
 | 🌐 Domain Registration | [Find a Domain](https://www.easylogic.gr) |
 | 🏗️ Website Development | [Joomla / WordPress Sites](https://www.easylogic.gr/kataskevi-istoselidon/dinamikes-istoselides.html) |
-| 🛵 Delivery Plus | [deliveryplus.gr](https://www.deliveryplus.gr/en/) |
-| 🎮 Delivery Plus Demo | [Try the Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) |
-| 🍎 App Store | [Easylogic on Apple App Store](https://apps.apple.com/gr/developer/easylogic-fakas-a-co-lp/id1154595499) |
-| 🤖 Google Play | [Delivery Plus on Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp) |
 | 📞 Contact Us | [Get in Touch](https://www.easylogic.gr/epikoinonia-easylogic.html) |
+| **🛵 Delivery Plus** | |
+| &nbsp;&nbsp;&nbsp;🌐 Website | [deliveryplus.gr](https://www.deliveryplus.gr/en/) |
+| &nbsp;&nbsp;&nbsp;🎮 Demo | [Try the Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) |
+| &nbsp;&nbsp;&nbsp;🍎 App Store | [Download on Apple App Store](https://apps.apple.com/gr/app/delivery-plus-app/id1559737886) |
+| &nbsp;&nbsp;&nbsp;🤖 Google Play | [Download on Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp) |
 
 ---
 
