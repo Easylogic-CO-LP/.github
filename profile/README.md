@@ -34,11 +34,11 @@ Beyond hosting and web development, we build our own **SaaS products** — inclu
 
 Delivery Plus is a complete SaaS platform for catering and retail businesses that want to attract customers through their **own** delivery management and online ordering system — without third-party intermediaries. Your brand. Your customers. Your data.
 
-**Features:** Smart central dashboard · Employee access controls · Configurable delivery zones · Auto order reception · Full order lifecycle management · Product & menu management with photos and extras · Real-time availability updates · GDPR-compliant customer database · Unlimited order history · Loyalty points & coupon system · Customer reviews & owner replies · Detailed analytics by date range · Flexible payments (Visa, Mastercard, Maestro, Amex, Viva Wallet, PayPal, cash on delivery) · Independent payment system per store · Native Android & iOS apps · Digital QR contactless catalogue · Works on all devices, no installation needed
+**Features:** Smart central dashboard · Employee access controls · Configurable delivery zones · Auto order reception · Full order lifecycle management · Product & menu management with photos and extras · Real-time availability updates · GDPR-compliant customer database · Unlimited order history · Loyalty points & coupon system · Customer reviews & owner replies · Detailed analytics by date range · Flexible payments (Visa, Mastercard, Maestro, Amex, Viva Wallet, cash on delivery) · Independent payment system per store · Native Android & iOS apps · Digital QR contactless catalogue · Works on all devices, no installation needed
 
 **Built for:** Hotels · Restaurants · Taverns · Cafés · Fast Food · Pizzerias · Beach Bars · Mini Markets · Bakeries · and many more
 
-> 🔗 [Website](https://www.deliveryplus.gr/en/) · [Features](https://www.deliveryplus.gr/en/online-delivery-web-app-features.html) · [Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) · [Pricing](https://www.deliveryplus.gr/en/application-delivery-pricing.html) · [App Store](https://apps.apple.com/gr/app/delivery-plus-app/id1559737886) · [Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp)
+> 🔗 [Website](https://www.deliveryplus.gr/en/) · [Features](https://www.deliveryplus.gr/en/online-delivery-web-app-features.html) · [Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) · [App Store](https://apps.apple.com/gr/app/delivery-plus-app/id1559737886) · [Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp)
 
 ---
 
@@ -78,7 +78,6 @@ Alfa Commerce is a full-featured, open-source eCommerce component for Joomla, bu
 | **🛵 Delivery Plus** | |
 | &nbsp;&nbsp;&nbsp;🌐 Website | [deliveryplus.gr](https://www.deliveryplus.gr/en/) |
 | &nbsp;&nbsp;&nbsp;🎮 Demo | [Try the Demo](https://www.deliveryplus.gr/en/application-delivery-demo.html) |
-| &nbsp;&nbsp;&nbsp;💰 Pricing | [View Pricing](https://www.deliveryplus.gr/en/application-delivery-pricing.html) |
 | &nbsp;&nbsp;&nbsp;🍎 App Store | [Download on Apple App Store](https://apps.apple.com/gr/app/delivery-plus-app/id1559737886) |
 | &nbsp;&nbsp;&nbsp;🤖 Google Play | [Download on Google Play](https://play.google.com/store/apps/details?id=gr.deliveryplusapp) |
 | **🛒 Alfa Commerce** | |
