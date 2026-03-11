@@ -7,9 +7,9 @@
 
 ## 🚀 Who We Are
 
-Easylogic is a Greek web services and software company with extensive experience in web hosting, website development, and digital promotion. We specialize in **Joomla** and **WordPress** solutions and pride ourselves on reliable, affordable, and high-performance cloud hosting infrastructure based entirely in Greece.
+Easylogic is a Greek web services and software company with extensive experience in web hosting, website development, custom web & mobile application development, and digital promotion. We design and build dynamic websites, eShops, and tailor-made web and mobile applications for businesses of all sizes, and pride ourselves on reliable, affordable, and high-performance cloud hosting infrastructure based entirely in Greece.
 
-Beyond hosting and web development, we build our own **SaaS products** — including **Delivery Plus**, a complete online ordering and delivery management platform for food and retail businesses, and **Dianemo**, the most advanced white-label courier and driver management platform.
+Beyond hosting and web development, we build our own **SaaS products** — including **Delivery Plus**, a complete online ordering and delivery management platform for food and retail businesses, **Dianemo**, the most advanced white-label courier and driver management platform, and **Alfa Commerce**, a full-featured open-source eCommerce solution for Joomla.
 
 ---
 
@@ -18,7 +18,7 @@ Beyond hosting and web development, we build our own **SaaS products** — inclu
 - **☁️ Cloud Web Hosting** — Reliable and affordable hosting at the **LAMDA HELIX Athens 2** datacenter, with Full SSD storage, GR-IX network connectivity, and unlimited hosting features. Infrastructure designed for zero downtime and full hardware redundancy at every level.
 - **🌐 Domain Name Services** — Register, transfer, and manage `.gr`, `.com.gr`, `.com`, `.net`, `.org` and more, with a personal domain management panel.
 - **🖥️ VPS / Cloud Servers** — High-speed Cloud Servers in Greece with GR-IX connectivity and Full SSD storage.
-- **🏗️ Website & eShop Development** — Custom websites and online stores built with Joomla CMS, WordPress, and independently developed applications using HTML, PHP, CSS, JavaScript, and MySQL.
+- **🏗️ Website, eShop, Web & Mobile App Development** — Custom dynamic websites, online stores, web applications, and native mobile apps built with modern technologies including HTML, PHP, CSS, JavaScript, and MySQL.
 - **📈 Website Promotion & SEO** — Proven, ethical SEO and Internet Marketing techniques to grow your online presence.
 - **⚡ Speed Optimization** — Performance tuning for your existing website.
 - **🔒 Joomla Security** — Hardening and security services for Joomla-based sites.
@@ -60,7 +60,7 @@ Dianemo is the most advanced white-label courier and driver management platform,
 
 Alfa Commerce is a full-featured, open-source eCommerce component for Joomla, built and maintained by Easylogic. Designed for companies that want a powerful, deeply integrated webshop directly inside their Joomla site — no third-party bridges, no compromises.
 
-**Features:** Product catalog with categories, manufacturers & custom fields · Cart & order management with full lifecycle tracking · Pluggable payment gateways (Standard, Revolut, Viva Wallet) · Pluggable shipping methods (Standard, BoxNow) · Pricing engine with taxes, discounts, coupons & multi-currency · Customer management with user group pricing · REST API for third-party integrations · SEF URLs & metadata management · Full multilingual support (en-GB, el-GR)
+**Features:** Product catalog with categories, manufacturers & custom fields · Cart & order management with full lifecycle tracking · Pluggable payment gateways · Pluggable shipping methods · Pricing engine with taxes, discounts, coupons & multi-currency · Customer management with user group pricing · REST API for third-party integrations · SEF URLs & metadata management · Full multilingual support (en-GB, el-GR)
 
 > 🔗 [Website](https://alfacommerce.gr) · [Documentation](https://manual.alfacommerce.gr) · [GitHub](https://github.com/Easylogic-CO-LP/Alfa-Commerce)
 
@@ -73,7 +73,8 @@ Alfa Commerce is a full-featured, open-source eCommerce component for Joomla, bu
 | 🌍 Main Website | [easylogic.gr](https://www.easylogic.gr) |
 | ☁️ Hosting Packages | [Web Hosting Plans](https://www.easylogic.gr/domain/cart.php) |
 | 🌐 Domain Registration | [Find a Domain](https://www.easylogic.gr) |
-| 🏗️ Website Development | [Joomla / WordPress Sites](https://www.easylogic.gr/kataskevi-istoselidon/dinamikes-istoselides.html) |
+| 🏗️ Websites & eShops | [Custom & Dynamic Web Solutions](https://www.easylogic.gr/kataskevi-istoselidon/dinamikes-istoselides.html) |
+| ⚙️ Custom Web Apps | [Web Application Development](https://www.easylogic.gr/kataskevi-istoselidon/custom-web-app-efarmogi.html) |
 | 📞 Contact Us | [Get in Touch](https://www.easylogic.gr/epikoinonia-easylogic.html) |
 | **🛵 Delivery Plus** | |
 | &nbsp;&nbsp;&nbsp;🌐 Website | [deliveryplus.gr](https://www.deliveryplus.gr/en/) |
