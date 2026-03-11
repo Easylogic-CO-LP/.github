@@ -103,7 +103,7 @@ Alfa Commerce is a full-featured, open-source eCommerce component for Joomla, bu
 ## 📬 Contact
 
 - 📧 **Email:** [info@easylogic.gr](mailto:info@easylogic.gr)
-- 📍 **Address:** 31ης Αυγούστου 3, Larissa, Greece
+- 📍 **Address:** 31is Avgoustou 3, Larissa, Greece
 - 🌐 **Website:** [www.easylogic.gr](https://www.easylogic.gr)
 - 🛵 **Delivery Plus:** [www.deliveryplus.gr](https://www.deliveryplus.gr/en/)
 
